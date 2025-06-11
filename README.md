@@ -2,29 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Face Milling G-Code Sample</title>
-  <style>
-    body {
-      font-family: 'Courier New', monospace;
-      background-color: #f9f9f9;
-      padding: 20px;
-    }
-    h2 {
-      color: #333;
-    }
-    .gcode-container {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 15px;
-      border-radius: 8px;
-      white-space: pre;
-      overflow-x: auto;
-      font-size: 16px;
-    }
-  </style>
 </head>
 <body>
-
   <h2>🧾 Sample 1: Face Milling Square Block (CNC Mill)</h2>
   <p><strong>Objective:</strong> Face a 50x50 mm square surface starting from the center.</p>
 
